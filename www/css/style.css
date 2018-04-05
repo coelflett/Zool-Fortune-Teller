@@ -1,0 +1,171 @@
+@font-face {
+    font-family: TheGoldsmithVintage;
+    src: url('../font/The_Goldsmith_Vintage.ttf');
+}
+
+
+#qty{
+    font-size: 28px ;
+    position: absolute;
+    text-align: center center;
+    height: 30vw;
+    width: 100%;
+    top: 96vw;
+/*    left: 50vw;*/
+}
+
+.objectsfound {
+    background-image: url(../imgs/objects_found_3.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 120%;
+    background-color: inherit;
+}
+
+
+
+#tabstrip-home .km-content{
+    background: url('../imgs/background.svg');
+    background-size: 100%;
+    background-color: #ffc783;
+    background-repeat: no-repeat;
+    background-position: top;
+    }
+
+.snapit{
+    background: url('../imgs/snapit.svg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    width: 100%;
+    height: 100%;
+    left:10px;
+    position: absolute;
+    margin: auto;
+    top:5vw;
+    
+}
+.score{
+    background-image: url(../imgs/score_item_2.svg);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: top center;
+    color: #3a291d;
+    padding:10px;
+    width: 100%;
+    height: 33%;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    top:37vw;
+}
+
+#photoObject{
+    font-size: 56px; 
+    width: 310px;
+    height: 110px;
+    border: none;
+    padding: 0px 19px 0px  19px;
+    position: absolute;
+    object-position: center;
+    top:13vw;
+    left: 8%;
+    margin: 0px;
+    text-align: center;
+}
+
+
+h3{
+    height: 120px; 
+    width: 190px;
+    position: relative;
+}
+
+
+
+
+#description{
+    left:12px;
+    font-size: 13px;     
+    height: 120px; 
+    width: 190px;
+    border-style: none;
+    padding: 0px;
+    position: relative;
+    object-position: center;
+    top:114vw;
+    left: 40%;
+    margin: 0px;
+    text-align: center;
+}
+
+
+
+img {
+    margin: 10px;
+    border-radius: 8px;
+    width:40%;
+    
+}
+
+#gallery{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top:114vw;
+}
+
+.galleryImg{
+    
+    background-color: inherit; 
+}
+
+
+#takepic{
+    background-image: url(../imgs/photobutton_4.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    left: 30%;
+    background-size: 100%;
+    padding:10px;
+    width: 40%;
+    height: 14vw;
+    position: absolute;
+    margin: auto;
+    top:  80vw;
+    background-color: inherit;
+    border: none;
+}
+
+
+
+
+button {
+    background-color: inherit;
+/*    border: none;*/
+}
+
+
+
+body {
+    font-family: helvetica, arial, verdana, sans-serif;
+}
+
+input {
+	font-size: 2.4em;
+	background-color: transparent;
+	text-align: center;
+	border-width: 0;
+	width: 100%;
+	margin: 0 0 .1em 0;
+	color: #fff;
+}
+
+label {
+	display: block;
+	font-size: .8em;
+}
+
+
+
+
+
